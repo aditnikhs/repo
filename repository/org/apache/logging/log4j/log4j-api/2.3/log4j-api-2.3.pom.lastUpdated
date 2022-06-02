@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 22:25:32 WIB 2022
+http\://files.couchbase.com/maven2/.error=
+http\://rubygems-proxy.torquebox.org/releases/.lastUpdated=1647530732167
+https\://repo.maven.apache.org/maven2/.lastUpdated=1647530732936
+http\://rubygems-proxy.torquebox.org/releases/.error=
+http\://files.couchbase.com/maven2/.lastUpdated=1647530731586
