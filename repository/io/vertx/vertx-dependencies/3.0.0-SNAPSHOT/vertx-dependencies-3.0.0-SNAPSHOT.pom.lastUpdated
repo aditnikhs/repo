@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 22:16:16 WIB 2022
+http\://rubygems-proxy.torquebox.org/releases/.lastUpdated=1647530176205
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1647530176614
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://0.0.0.0/.error=Could not transfer artifact io.vertx\:vertx-dependencies\:pom\:3.0.0-SNAPSHOT from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [couchbase (http\://files.couchbase.com/maven2, default, releases), rubygems-releases (http\://rubygems-proxy.torquebox.org/releases, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1647530176981
+http\://rubygems-proxy.torquebox.org/releases/.error=

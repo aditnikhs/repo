@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 19:30:23 WIB 2022
+vertx-web-4.2.6.jar>=
+vertx-web-4.2.6.pom>central=
+vertx-web-4.2.6.jar>central=

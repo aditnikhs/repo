@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 21 01:40:24 WIB 2022
+vertx-core-4.1.0-javadoc.jar>central=
+vertx-core-4.1.0.jar>=
+vertx-core-4.1.0.jar>central=
+vertx-core-4.1.0-sources.jar>central=
+vertx-core-4.1.0.pom>central=

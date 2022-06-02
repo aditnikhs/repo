@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 22:25:28 WIB 2022
+http\://rubygems-proxy.torquebox.org/releases/.lastUpdated=1647530727739
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1647530728038
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://rubygems-proxy.torquebox.org/releases/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 17 22:16:14 WIB 2022
+http\://files.couchbase.com/maven2/.error=
+http\://rubygems-proxy.torquebox.org/releases/.lastUpdated=1647530165908
+https\://repo.maven.apache.org/maven2/.lastUpdated=1647530174821
+http\://0.0.0.0/.error=Could not transfer artifact io.vertx\:vertx-parent\:pom\:5 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [couchbase (http\://files.couchbase.com/maven2, default, releases), rubygems-releases (http\://rubygems-proxy.torquebox.org/releases, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1647530166936
+http\://rubygems-proxy.torquebox.org/releases/.error=
+http\://files.couchbase.com/maven2/.lastUpdated=1647530165001
